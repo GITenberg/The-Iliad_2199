@@ -1,0 +1,39 @@
+_repo: The-Iliad_2199
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2000-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Trojan War'
+- !lcsh 'Achilles (Mythological character)'
+- GITenberg
+title: The Iliad
+url: http://www.gutenberg.org/ebooks/2199
